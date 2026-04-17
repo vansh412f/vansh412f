@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vansh</h1>
-<h3 align="center">A passionate Full-Stack & Machine Learning Engineer from India</h3>
-<p align="center">
+<h3 align="left">A passionate Full-Stack & Machine Learning Engineer from India  <p align="right">
   <img src="https://komarev.com/ghpvc/?username=vansh412f&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+</h3>
+
 <br/>
 
 - 🔭 I’m currently working on **scalable cloud-native applications and high-accuracy predictive models**

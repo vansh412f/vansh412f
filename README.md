@@ -39,9 +39,3 @@
 
 <br/>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <a href="https://github.com/vansh412f">
-    <img src="https://github-readme-stats.vercel.app/api?username=vansh412f&show_icons=true&theme=radical&hide_border=true" alt="Vansh's GitHub Stats" />
-  </a>
-</p>

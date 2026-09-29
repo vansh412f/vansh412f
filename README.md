@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Data-driven Web Apps and AI/ML initiatives**
 
-- 💬 Ask me about **the MERN stack, Python, XGBoost, and AWS**
+- 💬 Ask me about **the MERN stack, Next.js and AWS**
 
 - 📫 How to reach me: **[vansh.s.works@gmail.com](mailto:vansh.s.works@gmail.com)**
 

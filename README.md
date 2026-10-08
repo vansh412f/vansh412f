@@ -46,7 +46,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,nextjs,nodejs,express,tailwind,socketio,mongodb,postgres,mysql,redis,prisma,supabase,docker,aws,githubactions,vercel,netlify,pandas,numpy,git,github" alt="Vansh's Skills" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,redis,prisma,supabase,docker,aws,githubactions,vercel,netlify,git,github" alt="Vansh's Skills" />
   </a>
 </p>
 
